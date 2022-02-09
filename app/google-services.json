@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90542841898",
+    "project_id": "cuetjobnetwork",
+    "storage_bucket": "cuetjobnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90542841898:android:3b19e634c3d07c0a1c2353",
+        "android_client_info": {
+          "package_name": "com.example.cuetjobnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90542841898-9hh4b0sekuv5d4fvg5oi7e6nm6rl4npj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-puE9zvrWeOp34S93mj0QIDvRhkQKo6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90542841898-9hh4b0sekuv5d4fvg5oi7e6nm6rl4npj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
